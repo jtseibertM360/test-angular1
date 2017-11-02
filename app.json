@@ -1,0 +1,19 @@
+{
+    "name": "Testing Angular",
+    "description": "Test",
+    "keywords": [
+        "MEAN",
+        "Angular",
+        "Node",
+        "MongoDB",
+        "mLab"
+    ],
+    "repository": "https://github.com/jtseibertM360/test-angular1.git",
+    "success_url": "/",
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
